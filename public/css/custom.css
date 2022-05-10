@@ -1,0 +1,21 @@
+.btn_create_new {
+    background: plum;
+    color: black;
+    padding: 7px 15px;
+    border-radius: 3px;
+}
+
+.btn_create_new:hover {
+    background: cornflowerblue;
+    color: black;
+}
+
+.post_cover {
+    max-width: 1000px;
+    height: 500px;
+}
+
+.post_cover img {
+    object-fit: cover;
+    object-position: 10 10;
+}
